@@ -1,0 +1,9 @@
+com/ats/candidate/model/Candidate.class
+com/ats/candidate/repository/CandidateRowMapper.class
+com/ats/candidate/controller/CandidateController.class
+com/ats/candidate/service/CandidateService.class
+com/ats/candidate/config/ApplicationConfig.class
+com/ats/candidate/dto/CandidateDto.class
+com/ats/candidate/CandidateServiceApplication.class
+com/ats/candidate/repository/CandidateRepositoryImpl.class
+com/ats/candidate/irepository/ICandidateRepository.class
